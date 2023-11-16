@@ -35,3 +35,14 @@ for (i = 0; i < 10; i++){
 ### Experience:
 
 ---
+### Education:
+- International University 'MITSO', 
+specialty: jurisprudence.
+- Curses:
+    - Introduction to Front-End Development (Meta)
+---
+
+### English:
+__A2__
+
+---
