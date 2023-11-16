@@ -17,3 +17,21 @@ direction, pushing other matters aside
 second plan.
 
 ---
+### Skills:
+- HTML (Basic)
+- CSS (Basic)
+- JavaScript (Basic)
+- Git, GitHub (Basic)
+- VS Code (Basic)
+---
+### Code Exampel:
+```Javascript
+for (i = 0; i < 10; i++){
+    console.log (i)
+}
+```
+---
+
+### Experience:
+
+---
